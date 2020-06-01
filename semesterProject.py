@@ -7,6 +7,7 @@ import random
 Draw.setCanvasSize(680,595)
 #TO SET UP THE BOARD:
 
+#approved global variables
 #initialize the lengths of each point of the arrow from the central point (x,y)
 flap  = 30  
 head  = 40
